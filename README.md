@@ -42,6 +42,11 @@ Aprender sobre WEBAPI  busquei alguns cursos e tutorias que pudessem me orientar
 
 
 
+✔ BANCO DE DADOS RESULTADO
+
+![image](https://github.com/laurindodumba/WEAPI_COM_DJANGO_FRAMEWORK/assets/38964642/4bec5e09-8eec-48c6-90f7-d276c407085d)
+
+
 * [Conclusão](#conclusão)
 
  
