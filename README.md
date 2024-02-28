@@ -35,13 +35,17 @@ Aprender sobre WEBAPI  busquei alguns cursos e tutorias que pudessem me orientar
 
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
 
-Estes foram os resultados obtidos.
+🎯 Estes foram os resultados obtidos
 
-![alt text](image.png)
+
+![image](https://github.com/laurindodumba/WEAPI_COM_DJANGO_FRAMEWORK/assets/38964642/ebfd56bd-7961-497d-b3f6-2e470e23ad9b)
+
 
 
 * [Conclusão](#conclusão)
-Até aqui está fazendo sentido estudar sobre WEBAPI, preciso pesquisar como emplementar um projeto completo que posso realizar a integração entre back end e front end para ter um processo mais completo a respeito desta aplicação django, já que estudei de forma separada agora está na hora de criar pontes para unir as duas partes da aplicação e criar um processo que possa melhorar minhas habilidades técnicas e assim conseguir atingir outros níveis técnicos. Por outra também sinto que devo ir atrás de aprender a documentar uma API, isto esta nos trabalhos de estudos futuros para estudos e pesquisa.Vejo que a caminhada do aprendizado é bastante longa e muito promissora então haja coragem para encarar cada desafio que vem pela frente, seguimos. 
+
+ 
+✍ Até aqui está fazendo sentido estudar sobre WEBAPI, preciso pesquisar como emplementar um projeto completo que posso realizar a integração entre back end e front end para ter um processo mais completo a respeito desta aplicação django, já que estudei de forma separada agora está na hora de criar pontes para unir as duas partes da aplicação e criar um processo que possa melhorar minhas habilidades técnicas e assim conseguir atingir outros níveis técnicos. Por outra também sinto que devo ir atrás de aprender a documentar uma API, isto esta nos trabalhos de estudos futuros para estudos e pesquisa.Vejo que a caminhada do aprendizado é bastante longa e muito promissora então haja coragem para encarar cada desafio que vem pela frente, seguimos. 
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
